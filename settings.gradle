@@ -1,0 +1,9 @@
+include ':FtcRobotController'
+include ':TeamCode'
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url = uri("https://maven.brott.dev/") }
+    }
+}
