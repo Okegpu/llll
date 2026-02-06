@@ -13,7 +13,7 @@ import com.qualcomm.robotcore.hardware.IMU;
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 import org.firstinspires.ftc.robotcore.external.navigation.YawPitchRollAngles;
 
-@TeleOp(name = "ChassisDrive", group = "Drive")
+@TeleOp(name = "Chassis  Drive", group = "Drive")
 public class TeleopBlue extends OpMode {
 
     // ================= DRIVE =================

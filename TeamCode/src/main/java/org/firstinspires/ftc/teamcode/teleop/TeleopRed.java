@@ -14,7 +14,7 @@ import com.qualcomm.hardware.rev.RevHubOrientationOnRobot;
 import org.firstinspires.ftc.robotcore.external.navigation.YawPitchRollAngles;
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 
-@TeleOp(name = "ChassisDrive", group = "Drive")
+@TeleOp(name = "Chassis   Drive", group = "Drive")
 public class TeleopRed extends OpMode {
 
     // ================= DRIVE =================

@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
 
-@Autonomous(name = "BackUp + Shoot MEDIUM left", group = "Auto")
+@Autonomous(name = "BackUp +   Shoot MEDIUM left", group = "Auto")
 public class auto extends LinearOpMode {
 
     // ================= DRIVE =================
